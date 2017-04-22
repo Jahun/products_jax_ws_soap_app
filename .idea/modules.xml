@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/productsWsClient/productsWsClient.iml" filepath="$PROJECT_DIR$/productsWsClient/productsWsClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/productsWsServer/productsWsServer.iml" filepath="$PROJECT_DIR$/productsWsServer/productsWsServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/products_jax_ws_soap_app.iml" filepath="$PROJECT_DIR$/products_jax_ws_soap_app.iml" />
+    </modules>
+  </component>
+</project>
